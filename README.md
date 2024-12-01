@@ -1,6 +1,22 @@
 # Flutter Portfolio with drawer.
 
-A new Flutter project.
+This is my Flutter portfolio app showcasing my skills and projects. The app includes:
+
+Home Page: A clean introduction to my profile.
+Skills Section: Animated cards displaying my expertise in Flutter, Dart, and Firebase.
+Projects Section: A grid of recent projects with brief descriptions and images.
+Contact Section: A placeholder for reaching out.
+Features:
+
+Smooth animations for interactions.
+Bottom navigation for easy access between sections.
+Drawer navigation for additional pages like Profile and Settings.
+Technologies:
+
+Flutter for the app UI.
+Dart for programming.
+Firebase for backend (if applicable).
+
 
 ## Getting Started
 
